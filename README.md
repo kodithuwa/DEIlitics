@@ -1,4 +1,4 @@
-**Challenge** 
+***Hackahton Challenge***
 
 As a fully remote and internationally diverse team, AddSearch faces unique challenges in promoting collaboration and inclusivity across different time zones, cultures, and communication styles. These dynamics occasionally lead to misunderstandings, hesitancy in providing feedback, and slowed work progress. Addressing these challenges requires a deeper understanding of DEI principles and innovative approaches to raising awareness within the organization and its operations.
 The hackathon task invites participants to explore how AddSearch can raise awareness of DEI issues to:
